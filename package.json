@@ -1,0 +1,26 @@
+{
+  "name": "projet_todo",
+  "version": "1.0.0",
+  "description": "Projet de cours PHP POO todolist (DEV312503)",
+  "homepage": "https://github.com/mithridatem/projet_todo#readme",
+  "bugs": {
+    "url": "https://github.com/mithridatem/projet_todo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mithridatem/projet_todo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^16.2.1"
+  }
+}
